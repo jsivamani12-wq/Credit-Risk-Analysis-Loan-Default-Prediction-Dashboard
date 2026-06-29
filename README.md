@@ -22,7 +22,7 @@ Financial companies face significant losses due to loan defaults. The goal was t
 
 ## Dataset
 - **Source**: Kaggle (Lending Club Loan Data / Custom Credit Risk Dataset)
-- **Size**: Large dataset with 32,500+ records and 25+ features
+- **Size**: Large dataset with 35,000+ records and 25+ features
 - **Key Columns**: loan_amount, interest_rate, grade, annual_income, debt_to_income_ratio, default_status, employment_length, purpose, etc.
 - File: `new_credit_risk_dataset.csv`
 
