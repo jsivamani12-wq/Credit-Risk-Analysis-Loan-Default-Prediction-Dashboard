@@ -57,9 +57,13 @@ Financial companies face significant losses due to loan defaults. The goal was t
 ## Screenshots
 ![Dashboard Overview]
 
-<img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(37).png" >
-![Risk Segmentation](images/risk_segmentation.png)
-![Default Trends](images/default_trends.png)
+![Risk Segmentation]
+
+<img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(37).png">
+
+![Default Trends]
+
+<img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(38).png">
 
 *(Add your actual screenshot images in an /images folder)*
 
