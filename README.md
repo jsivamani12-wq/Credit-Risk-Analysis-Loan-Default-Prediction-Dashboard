@@ -22,7 +22,7 @@ Financial companies face significant losses due to loan defaults. The goal was t
 
 ## Dataset
 - **Source**: Kaggle (Lending Club Loan Data / Custom Credit Risk Dataset)
-- **Size**: Large dataset with 12,000+ records and 20+ features
+- **Size**: Large dataset with 32,500+ records and 25+ features
 - **Key Columns**: loan_amount, interest_rate, grade, annual_income, debt_to_income_ratio, default_status, employment_length, purpose, etc.
 - File: `new_credit_risk_dataset.csv`
 
@@ -55,13 +55,12 @@ Financial companies face significant losses due to loan defaults. The goal was t
 - Recommended risk-based pricing and stricter approval criteria for high-risk segments to potentially reduce defaults by 15-25%.
 
 ## Screenshots
-![Dashboard Overview]
 
-![Risk Segmentation]
+## ![Risk Segmentation]
 
 <img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(37).png">
 
-![Default Trends]
+## ![Default Trends]
 
 <img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(38).png">
 
