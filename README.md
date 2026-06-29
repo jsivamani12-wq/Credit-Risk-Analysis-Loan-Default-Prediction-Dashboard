@@ -11,7 +11,7 @@ I developed an end-to-end **Credit Risk Analysis and Loan Default Prediction Das
 
 <img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(34).png" />
 
-**GitHub**: [Your repo link]
+**GitHub**: [<a href="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard"> Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard</a>]
 
 ## Business Problem
 Financial companies face significant losses due to loan defaults. The goal was to build a robust analytics solution that:
@@ -55,7 +55,9 @@ Financial companies face significant losses due to loan defaults. The goal was t
 - Recommended risk-based pricing and stricter approval criteria for high-risk segments to potentially reduce defaults by 15-25%.
 
 ## Screenshots
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview]
+
+<img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(37).png" >
 ![Risk Segmentation](images/risk_segmentation.png)
 ![Default Trends](images/default_trends.png)
 
