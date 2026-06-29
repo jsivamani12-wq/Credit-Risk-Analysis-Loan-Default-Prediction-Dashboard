@@ -11,7 +11,7 @@ I developed an end-to-end **Credit Risk Analysis and Loan Default Prediction Das
 
 <img src="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/Screenshot%20(34).png" />
 
-**GitHub**: [<a href="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard"> Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard</a>]
+**My WorkBook**: [<a href="https://github.com/jsivamani12-wq/Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard/blob/main/My%20Wark%20Book.pbix"> Credit-Risk-Analysis-Loan-Default-Prediction-Dashboard</a>]
 
 ## Business Problem
 Financial companies face significant losses due to loan defaults. The goal was to build a robust analytics solution that:
